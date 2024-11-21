@@ -1,6 +1,6 @@
 # 🚀 占位文件生成工具
 
-![Octocat](https://github.githubassets.com/images/modules/logos_page/Octocat.png)
+![Octocat](https://github.com/fluidicon.png)
 
 [![Python Version](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
