@@ -113,10 +113,6 @@ python main.py
 3. 📝 提交更改
 4. 🔀 发起 Pull Request
 
-## 📄 开源协议
-
-本项目采用 MIT 协议开源，详情请参阅 [LICENSE](LICENSE) 文件。
-
 ---
 
 如果觉得这个工具对你有帮助，请点个 ⭐️ 支持一下！
